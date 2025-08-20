@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#ffffff"/>
+  <rect x="40" y="40" width="1120" height="220" rx="30" fill="#111"/>
+  <text x="50%" y="57%" fill="#fff" font-family="Georgia, serif" font-size="90" text-anchor="middle">MOONCAT</text>
+  <text x="50%" y="82%" fill="#ffffff" font-family="Georgia, serif" font-size="26" text-anchor="middle">Apparel</text>
+</svg>
